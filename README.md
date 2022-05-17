@@ -1,6 +1,6 @@
 # :beers: PUB Programmer
 
-Aplicação de divulgação dos produtos e serviços da empresa e gerenciamento de funcionarios, cardápios e fornecedores construída em colaboração com [@Matheus Camba](https://github.com/MatheusCamba), [@Hugo Parada](https://github.com/haparada9), [@Milena Souza](https://github.com/Milena2712) e [@Gicelle Sena](https://github.com/Gicelle-sena).
+Aplicação de divulgação dos produtos e serviços da empresa e gerenciamento de funcionarios, cardápios e fornecedores.
 
 **Link da aplicação em produção**
 [https://pub-programmer.netlify.app/](https://pub-programmer.netlify.app/)
